@@ -5,11 +5,11 @@ tags:
   - comprehension
   - quantifier
 ---
-# comprehension vs. quantifier
+# comprehension vs. constraint
 
 ## Comparison
 
-|             | comprehension  |  quantifier                          |
+|             | comprehension  |  constraint                          |
 | ----------- | -----------------|------------------- |
 | Expression       | `{ a: A | #(a.b) > 0 }`  | `( all a: A | #(a.b) > 0 )` |
 | Output      | Set| Boolean |

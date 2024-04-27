@@ -5,6 +5,9 @@ tags:
   - comprehension
 ---
 # comprehension
+
+Defining sets by properties is also known as set comprehension.
+
 ## Background
 ### [Set-builder notation](https://en.wikipedia.org/wiki/Set-builder_notation)
 

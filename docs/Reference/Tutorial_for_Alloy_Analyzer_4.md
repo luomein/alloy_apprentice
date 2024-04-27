@@ -26,3 +26,4 @@ Rob Seater and Greg Dennis
 
 ## [Relations as Ordered Tuples](https://alloytools.org/tutorials/online/sidenote-relations-are-ordered-pairs.html)
 
+## [equivalent ways of expressing](https://alloytools.org/tutorials/online/sidenote-alternative-defineContents.html)

@@ -7,6 +7,11 @@ fun named_contents : Dir -> Name -> Object {
     some e : Entry | e in d.entries and e.name = n and e.object = o }
 }
 ```
+Answer:
+
+[Functions and Relations](https://alloytools.org/tutorials/online/sidenote-relation-function.html)
+
+[Syntax for fun (function) statements](https://alloytools.org/tutorials/online/sidenote-format-functions.html)
 
 * What's the difference between these two statements?
 

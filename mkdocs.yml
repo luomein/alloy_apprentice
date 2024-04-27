@@ -6,7 +6,7 @@ theme:
     - content.code.copy
 plugins:
   - tags:
-      tags_file: index.md
+      tags_file: tags.md
   - search
   - awesome-pages
 #hooks:
