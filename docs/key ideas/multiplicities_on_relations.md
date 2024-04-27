@@ -67,7 +67,8 @@ check standard_constraints
 
 ### potential instances
 
-![potential instances](/assets/images/key_ideas/multiplicities_on_relations_example1_potential_instances.png)
+
+![potential instances](https://raw.githubusercontent.com/luomein/alloy_apprentice/main/docs/assets/images/key_ideas/multiplicities_on_relations_example1_potential_instances.png)
 
 * A
 
@@ -211,7 +212,7 @@ assert standard_constraints{
 
 ### potential instances
 
-![potential instances](/assets/images/key_ideas/multiplicities_on_relations_example2_potential_instances.png)
+![potential instances](https://raw.githubusercontent.com/luomein/alloy_apprentice/main/docs/assets/images/key_ideas/multiplicities_on_relations_example2_potential_instances.png)
 
 * A
 
