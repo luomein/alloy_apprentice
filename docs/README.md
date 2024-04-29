@@ -1,1 +1,1 @@
-[My Alloy Apprentice Web Site](alloy-apprentice.readthedocs.io)
+[My Alloy Apprentice Web Site](https://alloy-apprentice.readthedocs.io)
