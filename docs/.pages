@@ -1,3 +1,7 @@
 nav:
-  - ...
+  - index.md
+  - confusing expressions
+  - key ideas
+  - keywords
   - Reference
+  - tags.md
