@@ -11,7 +11,7 @@ The truth table corresponds to facts and assertion whether counterexample found 
 
 <!-- more -->
 
-!!! note "[Software Abstractions]({{process.env.READTHEDOCS_CANONICAL_URL}}/Reference/Software_Abstractions/#page-144-in-the-case-of-an-assertion-the-analysis-constraint-is-the-negation-of-the-assertions-constraint-conjoined-with-the-facts-of-the-model-an-in-stance-is-a-counterexample-a-scenario-in-which-the-facts-hold-but-the-assertion-does-not)"
+!!! note "[Software Abstractions](../../../../../Reference/Software_Abstractions/#page-144-in-the-case-of-an-assertion-the-analysis-constraint-is-the-negation-of-the-assertions-constraint-conjoined-with-the-facts-of-the-model-an-in-stance-is-a-counterexample-a-scenario-in-which-the-facts-hold-but-the-assertion-does-not)"
 
     In the case of an assertion, the analysis constraint is the negation of the assertion’s constraint conjoined with the facts of the model. An in- stance is a counterexample: a scenario in which the facts hold but the assertion does not.
 
