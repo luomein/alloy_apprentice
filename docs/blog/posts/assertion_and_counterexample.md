@@ -9,6 +9,8 @@ categories:
 
 The truth table corresponds to facts and assertion whether counterexample found or not.
 
+It is commonly noted that when there is no counterexample, it may be because of scope too small. However, not so commonly noted, it may be because of the facts are `False`. See `sample code #2 and #3` below.
+
 <!-- more -->
 
 !!! note "[Software Abstractions](../../../../../Reference/Software_Abstractions/#page-144-in-the-case-of-an-assertion-the-analysis-constraint-is-the-negation-of-the-assertions-constraint-conjoined-with-the-facts-of-the-model-an-in-stance-is-a-counterexample-a-scenario-in-which-the-facts-hold-but-the-assertion-does-not)"
