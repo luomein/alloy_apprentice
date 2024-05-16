@@ -7,11 +7,11 @@ categories:
 
 #Assertion and Counterexample
 
-List the truth table of facts and assertion corresponding to whether counterexample found or not.
+List the truth table of `facts` and `assertion` corresponding to whether counterexample found or not.
 
-It is commonly noted that when there is no counterexample, it may be because of scope too small. However, not so commonly noted, it may be because of the facts are `False`. 
+It is commonly noted that when there is no counterexample, it may be because of scope too small. However, not so commonly noted, it may be because of the `facts` are `False`. 
 
-Whenever the facts are `False`, no matter what assertion it is, there would be no counterexample found. See `sample code #2 and #3` below.
+Whenever the `facts` are `False`, no matter what `assertion` it is, there would be no counterexample found. See `sample code #2 and #3` below.
 
 <!-- more -->
 
