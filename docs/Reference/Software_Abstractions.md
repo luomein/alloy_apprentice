@@ -12,4 +12,4 @@ Daniel Jackson
 
 ## 5.2 Instances, Examples, and Counterexamples
 
-### Page 144, "In the case of an assertion, the analysis constraint is the negation of the assertion’s constraint conjoined with the facts of the model. An in- stance is a counterexample: a scenario in which the facts hold but the assertion does not."
+### Page 144, "In the case of an assertion, the analysis constraint is the negation of the assertion’s constraint conjoined with the facts of the model. An instance is a counterexample: a scenario in which the facts hold but the assertion does not."

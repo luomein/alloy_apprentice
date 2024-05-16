@@ -15,9 +15,9 @@ Whenever the `facts` are `False`, no matter what `assertion` it is, there would 
 
 <!-- more -->
 
-!!! note "[Software Abstractions](../../../../../Reference/Software_Abstractions/#page-144-in-the-case-of-an-assertion-the-analysis-constraint-is-the-negation-of-the-assertions-constraint-conjoined-with-the-facts-of-the-model-an-in-stance-is-a-counterexample-a-scenario-in-which-the-facts-hold-but-the-assertion-does-not)"
+!!! note "[Jackson, Daniel. *Software Abstractions*](../../../../../Reference/Software_Abstractions/#page-144-in-the-case-of-an-assertion-the-analysis-constraint-is-the-negation-of-the-assertions-constraint-conjoined-with-the-facts-of-the-model-an-in-stance-is-a-counterexample-a-scenario-in-which-the-facts-hold-but-the-assertion-does-not)"
 
-    In the case of an assertion, the analysis constraint is the negation of the assertion’s constraint conjoined with the facts of the model. An in- stance is a counterexample: a scenario in which the facts hold but the assertion does not.
+    In the case of an assertion, the analysis constraint is the negation of the assertion’s constraint conjoined with the facts of the model. An intance is a counterexample: a scenario in which the facts hold but the assertion does not.
 
 
 ## No counterexample found
