@@ -48,7 +48,11 @@ run {
 
 ## `let` Expression
 
-The output is an expression or constraint.
+The output is an expression or a constraint.
+
+!!! question "my assumption"
+
+    A `constraint` is just a kind of `expression` whose value is `True` or `False`.
 
 | | :white_check_mark: correct syntax | :no_entry_sign: wrong syntax |
 | -- | -- | -- |
@@ -97,6 +101,7 @@ Comprehension is a set builder. The output is a set.
 | -- | -- | -- |
 | basic form | `{a : A | F}` | |
 | substituted form | `{a : A {F}}`
+| substituted form | `({a : A {F}})`
 | substituted form | | `(a: A | F)` |
 | substituted form | | `{a: A (F)}` |
 

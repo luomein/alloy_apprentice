@@ -5,9 +5,13 @@ categories:
   - lexicon
 ---
 
-#Lexical Issues
+#Existential Quantifier
 
 
-[reference](https://alloytools.org/spec.html)
+[reference](https://en.wikipedia.org/wiki/Existential_quantification)
 
-[BNF, Backus–Naur form](https://en.wikipedia.org/wiki/Backus–Naur_form)
+
+Alloy Book
+5.2.2 Skolemization
+
+
