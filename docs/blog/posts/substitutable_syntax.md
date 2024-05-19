@@ -54,6 +54,10 @@ The output is an expression or a constraint.
 
     A `constraint` is just a kind of `expression` whose value is `True` or `False`.
 
+!!! info "answer"
+
+    > [Expressions are anything that returns a number, boolean, or set. Boolean expressions are also called Constraints.](https://alloy.readthedocs.io/en/latest/language/expressions-and-constraints.html#expressions)
+
 | | :white_check_mark: correct syntax | :no_entry_sign: wrong syntax |
 | -- | -- | -- |
 | basic form | `let a = A | F` | |
@@ -102,6 +106,7 @@ Comprehension is a set builder. The output is a set.
 | basic form | `{a : A | F}` | |
 | substituted form | `{a : A {F}}`
 | substituted form | `({a : A {F}})`
+| substituted form | | `a: A | F` |
 | substituted form | | `(a: A | F)` |
 | substituted form | | `{a: A (F)}` |
 
