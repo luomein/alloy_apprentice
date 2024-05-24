@@ -71,19 +71,19 @@ Let's construct a counterexample.
 
 | Expression | Boolean |
 | -- | -- |
-| a1 in A | True |
-| a2 in A | True |
-| a1 in a1.relation | False |
-| a1 in a2.relation | True
-| a2 in a1.relation | True |
-| a2 in a2.relation | True |
-| expr[a1 , a1] | False |
-| expr[a1 , a2] | True |
-| expr[a2 , a1] | True |
-| expr[a2 , a2] | True |
-|  (one a1, a2 : A | expr[a1 , a2] ) | False |
-|  (one a1: A | one a2: A | expr[a1, a2]) | True |
+| `a1 in A` | True |
+| `a2 in A`| True |
+| `a1 in a1.relation` | False |
+| `a1 in a2.relation` | True
+| `a2 in a1.relation` | True |
+| `a2 in a2.relation` | True |
+| `expr[a1 , a1]` | False |
+| `expr[a1 , a2]` | True |
+| `expr[a2 , a1]` | True |
+| `expr[a2 , a2]` | True |
+|  `(one a1, a2 : A | expr[a1 , a2] )` | False |
+|  `(one a1: A | one a2: A | expr[a1, a2])` | True |
 
-The reason for ` (one a1, a2 : A | expr[a1 , a2] ) ` to be false because there are 3 pairs to make `expr` to be true, not one pair.
+The reason for ` (one a1, a2 : A | expr[a1 , a2] ) ` to be false is because there are 3 pairs to make `expr` to be true, not one pair.
 
-The reason for ` (one a1: A | one a2: A | expr[a1, a2]) ` to be true because there is only one pair to meet this criteria. That happens to be, a1 = a1 and a2 = a2.
+The reason for ` (one a1: A | one a2: A | expr[a1, a2]) ` to be true is because there is only one pair to meet this criteria. That happens to be, a1 = a1 and a2 = a2.
