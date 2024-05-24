@@ -69,6 +69,8 @@ check equivalence
 
 Let's construct a counterexample.
 
+![viz.png](../../../../../assets/images/posts/equivalent_expressions/viz.png)
+
 | Expression | Boolean |
 | -- | -- |
 | `a1 in A` | True |
